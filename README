@@ -12,7 +12,7 @@ Features:
 
 
 Included files:
-	* PushMonitor.php (created by Alessandro Segala - released under LGPL)
+	* PushMonitor.php (released under LGPL)
 		The main script: this is the script you will run. It checks for new items in the queue at regular intervals and sends them to Apple through the PushService script.
 	* PushService.php (created by Luke Rhodes and adapted by Alessandro Segala - released into the public domain)
 		Manages the connection with APNS servers.
